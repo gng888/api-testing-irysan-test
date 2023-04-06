@@ -1,4 +1,4 @@
-# Axiso Cucumber API Test framework
+# Axios Cucumber API Test framework
 
 The API test framework consists of Axios and Cucumber with Javascript
 The test make use of Scenario Outline and Examples Data Table to execute multiple API Requests in the feature file
