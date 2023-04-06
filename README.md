@@ -9,7 +9,7 @@ The test make use of Scenario Outline and Examples Data Table to execute multipl
 
 ## Installing Dependencies
 
-You must install dependencies prior to running your tests using the following command
+Dependencies must be installed prior to running the tests with the following command
 `npm install`
 
 ## Running the API tests
