@@ -12,7 +12,7 @@ The test make use of Scenario Outline and Examples Data Table to execute multipl
 You must install dependencies prior to running your tests using the following command
 `npm install`
 
-## Runming the tests
+## Running the API tests
 
 Run API tests
 `npm run test`
